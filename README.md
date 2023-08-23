@@ -15,12 +15,12 @@ https://github.com/HackX-IN/CardsAnimation.git
 - Scroll each credit card independently within a FlatList
 
 ## Getting Started:
-
-Install node_modules using yarn 
 use command "yarn start" to run the code
 
-##starting the db.json using json-server
+## Install dependencies
+Install node_modules using "Yarn"
 
+## starting Server
 json-server --watch db.json 
 
 
