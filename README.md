@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a custom React Native component called `CreditCardList` that displays a list of credit card items with animated scrolling effects. Each credit card is presented with a random background color and can be scrolled independently using a scroll view. This component can be easily integrated into your React Native applications.
+This is a custom React Native component called `CreditCardList` that displays a list of credit card items with animated scrolling effects. Each credit card is presented with a random background color and can be scrolled independently using a Flatlist. This component can be easily integrated into your React Native applications.
 
 
 ## Clone this repo using 
