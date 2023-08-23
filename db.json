@@ -1,0 +1,22 @@
+{
+  "creditCards": [
+    { "id": "1", "cardNumber": "**** **** **** 1234", "name": "John Doe" },
+    { "id": "2", "cardNumber": "**** **** **** 5678", "name": "Jane Smith" },
+    { "id": "3", "cardNumber": "**** **** **** 8765", "name": "Alice Johnson" },
+    { "id": "4", "cardNumber": "**** **** **** 4321", "name": "Bob Anderson" },
+    { "id": "5", "cardNumber": "**** **** **** 9876", "name": "Eve Williams" },
+    { "id": "6", "cardNumber": "**** **** **** 6543", "name": "David Brown" },
+    { "id": "7", "cardNumber": "**** **** **** 7890", "name": "Linda Davis" },
+    {
+      "id": "8",
+      "cardNumber": "**** **** **** 3456",
+      "name": "Michael Miller"
+    },
+    { "id": "9", "cardNumber": "**** **** **** 2109", "name": "Sophia Wilson" },
+    {
+      "id": "10",
+      "cardNumber": "**** **** **** 6789",
+      "name": "Oliver Martinez"
+    }
+  ]
+}
